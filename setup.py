@@ -17,7 +17,7 @@ setup(name='gridinterppy',
         'Topic :: Scientific/Engineering :: Mathematics',
         'Topic :: Scientific/Engineering :: Physics'
       ],
-      url='http://github.com/lootie/gridinterppy',
+      url='http://github.com/axmas-anl/gridinterppy',
       keywords='interpolation laplacians',
       author='Vishwas Rao and Charlotte Haley',
       license='GNU GPL v 2.0',

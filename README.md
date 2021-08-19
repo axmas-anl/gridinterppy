@@ -5,7 +5,7 @@ Wraps the LaplaceInterpolation.jl package so as to work in python
 
 Please install using 
 ```
-$ pip install -e git+https://github.com/lootie/gridinterppy.git#egg=gridinterppy
+$ pip install -e git+https://github.com/axmas-anl/gridinterppy.git#egg=gridinterppy
 ```
 Using gridinterppy requires that Julia is installed and in the path, along with
 [LaplaceInterpolation.jl](https://github.com/vishwas1984/LaplaceInterpolation.jl) and
